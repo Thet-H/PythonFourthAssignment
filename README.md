@@ -46,7 +46,7 @@ student_project/
 # 🚀 How to Run the Project
 ### 1.clone the repository
 ```
-git clone https://github.com/yourusername/student-management.git
+git clone https://github.com/Thet-H/student-management.git
 cd student-management
 ```
 ### 2.Create Virtual Environment 

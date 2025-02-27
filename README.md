@@ -3,7 +3,6 @@ A simple Student Management System built with Django. This project allows you to
 
 
 ## ✨ Features
-
 - ✅ Add Student
 - ✅ Edit Student Information
 - ✅ Delete Student Record

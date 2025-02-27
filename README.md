@@ -24,7 +24,7 @@ student_project/
     │   │   ├── student_app/
     │   │   │   ├── student_list.html
     │   │   │   ├── add_student.html
-    │   │   │   ├── edit_student.html (optional)
+    │   │   │   ├── edit_student.html 
     │   ├── __init__.py
     │   ├── admin.py
     │   ├── apps.py
@@ -62,7 +62,6 @@ python manage.py migrate
 ### 4.Start Development Server
 python manage.py runserver
 ### 5.Access the App
-
 Open your browser and visit:
 👉 http://127.0.0.1:8000
 
